@@ -1,6 +1,4 @@
-*This is a template repository for this organization. Start by replacing the placeholder for the project name with its actual title.*
-
-# [Demonstration Project title]
+# Testing an Artificial Intelligence Based Navigation Algorithms for Autonomous Robotic Vessels
 
 ## Summary
 | Company name | [MindChip OÜ](https://mindchip.ee/) |
